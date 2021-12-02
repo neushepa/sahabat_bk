@@ -164,7 +164,8 @@ return [
 
         /*
          * Package Service Providers...
-         */
+        */
+        Yajra\Disqus\DisqusServiceProvider::class,
 
         /*
          * Application Service Providers...
